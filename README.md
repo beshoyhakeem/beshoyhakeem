@@ -27,6 +27,14 @@
 
 ###
 
+<h3 align="left">⚙️ Areas of Expertise</h3>
+
+###
+
+<p align="left">🔹 ML & Deep Learning (CV & NLP)<br><br>• Full ML pipeline: raw data → preprocessing → modeling → evaluation → production<br><br>• Deep learning models for Computer Vision & NLP with experiment tracking & hyperparameter optimization<br><br>• API serving with FastAPI + containerized deployment using Docker, Cloud, and Kubernetes<br><br>🔹 AI Engineering & GenAI Systems<br><br>• Production-ready RAG systems, chatbots, and AI agents<br><br>• LLM orchestration with LangChain, LangGraph, MCP, and n8n<br><br>• Document ingestion pipelines (chunking, embeddings, vector DBs) + end-to-end deployment with FastAPI & K8s</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -107,5 +115,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/beshoyhakeem/beshoyhakeem/output/snake.svg" alt="Snake animation" />
 
 ###
